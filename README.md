@@ -1,6 +1,6 @@
 # Zomato Bangalore Restaurants EDA
 
-![Zomato Bangalore Restaurants](zomato_bangalore.jpg)
+![Zomato Bangalore Restaurants]
 
 This repository contains an exploratory data analysis (EDA) of the Zomato Bangalore Restaurants dataset. The dataset was obtained from Kaggle and consists of information about various restaurants in Bangalore, including their names, locations, cuisines, user ratings, and more. The goal of this EDA is to gain insights into the restaurant landscape of Bangalore and uncover interesting trends and patterns.
 
